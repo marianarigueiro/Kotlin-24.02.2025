@@ -1,0 +1,11 @@
+/**
+ * You can edit, run, and share this code.
+ * play.kotlinlang.org
+ */
+fun main(args: Array<String>) {
+	val lista = listOf(1, 2, 3, 4)
+    
+    for(i in lista) {
+        println("Item: $i")
+    }
+}
